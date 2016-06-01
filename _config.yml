@@ -1,0 +1,28 @@
+name: saybucket
+favicon: null
+layout_spectrum: 0.17133684316650033
+typography_spectrum: 0.08574780030176044
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9237657289486378
+  lightness: 0.26909092883579433
+  saturation: 0.9242130748461932
+  rhythmicContrast: 0.5730242296122015
+purpose: []
