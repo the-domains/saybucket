@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a5a6f6b-23ab-4e04-b7bb-3502ee0a384b.png
 name: saybucket
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbf21ef-45dd-469e-8635-3f07f4f66d1e.png
 title: SayBucket
 description: Your bucketlist dreams start here
 purpose: []
