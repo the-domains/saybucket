@@ -4,7 +4,7 @@
         <description><![CDATA[SayBucket]]></description>
         <link>http://saybucket.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 06:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 06:47:32 GMT</lastBuildDate>
         <atom:link href="http://saybucket.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>http://saybucket.com/c71da9d0-2799-4234-8387-69f87c9ad131/index.html</link>
             <guid isPermaLink="false">c71da9d0-2799-4234-8387-69f87c9ad131</guid>
             <pubDate>Thu, 11 Aug 2016 07:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f39cbd-8089-4ac7-9dbd-10ccabc746e0.jpg">]]></description>
-            <link>http://saybucket.com/75f764d7-f809-446f-b7db-8fc4023897eb/index.html</link>
-            <guid isPermaLink="false">75f764d7-f809-446f-b7db-8fc4023897eb</guid>
-            <pubDate>Thu, 11 Aug 2016 07:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
