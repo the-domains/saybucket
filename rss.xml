@@ -4,7 +4,7 @@
         <description><![CDATA[SayBucket]]></description>
         <link>http://saybucket.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 06:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 06:47:43 GMT</lastBuildDate>
         <atom:link href="http://saybucket.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>http://personalexcellence.co/blog/bucket-list/</link>
             <guid isPermaLink="false">aa2d4f92-3c6a-4944-b132-037f17782f37</guid>
             <pubDate>Thu, 11 Aug 2016 07:04:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/879852a9-8e2e-427c-9d3b-693ab75fc606.jpg">]]></description>
-            <link>http://saybucket.com/c71da9d0-2799-4234-8387-69f87c9ad131/index.html</link>
-            <guid isPermaLink="false">c71da9d0-2799-4234-8387-69f87c9ad131</guid>
-            <pubDate>Thu, 11 Aug 2016 07:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
