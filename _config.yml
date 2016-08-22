@@ -33,6 +33,9 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/saybucket'
     type: external
+  - name: Instagram - Say Bucket
+    url: 'https://www.instagram.com/saybucket/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbf21ef-45dd-469e-8635-3f07f4f66d1e.png
 title: SayBucket
