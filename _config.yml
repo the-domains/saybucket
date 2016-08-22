@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Bucket list - Paragliding
+    id: 9062a396-461d-4d28-bc48-ec077f8ff6fd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbbf21ef-45dd-469e-8635-3f07f4f66d1e.png
 title: SayBucket
