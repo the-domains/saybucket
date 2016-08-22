@@ -53,17 +53,14 @@ app_links:
     package: com.eventbrite.attendee
     namespace: google
     type: android
-isBasedOnUrl: >-
-  https://www.eventbrite.com.au/e/ticking-it-off-the-bucket-list-paragliding-tickets-27164270063
 title: Ticking it off the Bucket list - Paragliding
-datePublished: '2016-08-18T06:37:46.140Z'
-dateModified: '2016-08-18T06:34:05.620Z'
+datePublished: '2016-08-22T07:02:28.572Z'
+dateModified: '2016-08-22T07:02:27.745Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-ticking-it-off-the-bucket-list-paragliding.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: ticking-it-off-the-bucket-list-paragliding/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
