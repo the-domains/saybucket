@@ -4,8 +4,15 @@
         <description><![CDATA[SayBucket]]></description>
         <link>http://saybucket.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 07:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 07:13:07 GMT</lastBuildDate>
         <atom:link href="http://saybucket.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Say Bucket - Live your Bucketlist]]></title>
+            <description><![CDATA[<article><h1>Say Bucket - Live your Bucketlist</h1><p>Before Say Bucket, your list was just a dream. But now, we're bringing your bucket list dreams to life. What do you want to do? Where do you want to go? The deepest oceans, the highest mountains or into space? Saybucket.com is the official bucketlist experience brokerage for your goals.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/edd8e3d2d0e8d02f083ccfc49bfbd62d/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F6o9luBH0tz4%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/6o9luBH0tz4</link>
+            <guid isPermaLink="false">645d78b8-662f-4e82-bcaa-5390c54a27d5</guid>
+            <pubDate>Mon, 22 Aug 2016 07:13:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/saybucket</link>
